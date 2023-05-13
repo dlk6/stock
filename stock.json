@@ -1,0 +1,25 @@
+{
+    "tempspoofer": {
+        "licenses": {
+            "Day": [
+                
+            ],
+            "Week": [
+                
+            ],
+            "Month": [
+                
+            ]
+        }
+    },
+    "valacc": {
+        "licenses": {
+            "Nfa": [
+                
+            ],
+            "Fa": [
+                
+            ]
+        }
+    }
+}
