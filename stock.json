@@ -1,26 +1,18 @@
 {
-    "tempspoofer": {
-        "licenses": {
-            "Day": [
-                
-            ],
-            "Week": [
-                
-            ],
-            "Month": [
-                
-            ]
-        }
-    },
     "valacc": {
-        "licenses": {
-            "Nfa": [
-                
-            ],
-            "Fa": [
-                
-            ]
+        "accounts": {
+            "Nfa": {
+                "NA": [],
+                "EU": [],
+                "KR": [],
+                "BR": []
+            },
+            "Fa": {
+                "NA": [],
+                "EU": [],
+                "KR": [],
+                "BR": []
+            }
         }
     }
 }
-
